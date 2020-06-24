@@ -1,0 +1,6 @@
+google.com
+facebook.com
+example.com
+twitter.com
+amazon.com
+chromium.org
